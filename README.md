@@ -21,6 +21,8 @@ Run "node server.js" to start then navigate to a browser window to localhost:808
                                      OR
                                      
 Use the live application via the Heroku link https://the11thsteptodeath.herokuapp.com/
+![Note Taker](https://user-images.githubusercontent.com/90013822/149637951-b6154783-4e17-4698-9800-a52e6def9780.JPG)
+![Capture](https://user-images.githubusercontent.com/90013822/149637954-b36e6c84-e77b-4c0b-b615-9e65b212d904.JPG)
 
 
 
