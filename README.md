@@ -1,7 +1,7 @@
 # 11th-Step-to-Death
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
-#Note Taker
+# Note Taker
 
 ## Description 
 This project is created to write and save notes.
